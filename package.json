@@ -2,7 +2,7 @@
   "name": "winjs-self-built",
   "version": "4.4.1",
   "description": "```powershell",
-  "main": "Microsoft.WinJS.4.4/js/ui.js",
+  "main": "js/ui.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
