@@ -1,0 +1,19 @@
+{
+  "name": "winjs-self-built",
+  "version": "4.4.0",
+  "description": "```powershell",
+  "main": "Microsoft.WinJS.4.4/js/ui.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/staxmanade/winjs-self-built.git"
+  },
+  "author": "Jason Jarrett",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/staxmanade/winjs-self-built/issues"
+  },
+  "homepage": "https://github.com/staxmanade/winjs-self-built#readme"
+}
