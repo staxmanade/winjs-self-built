@@ -9,7 +9,7 @@ Since WinJS is being sun-setted, I'm using this as a place to store a custom bui
 ```
 
 ./winjs/ <-- this maps to https://github.com/winjs/winjs/
-./winjs-self-built <-- this maps to https://github.com/staxmanade/winjs-self-built
+./winjs-self-built/ <-- this maps to https://github.com/staxmanade/winjs-self-built
 
 ```
 
